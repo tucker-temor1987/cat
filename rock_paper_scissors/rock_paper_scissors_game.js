@@ -32,3 +32,7 @@ function rock_paper_scissors(){
 function letmewin(){
 	console.log("temor a winner");
 }
+
+function needstowin(){
+	console.log("never will lose")
+}
