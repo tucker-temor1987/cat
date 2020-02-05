@@ -28,3 +28,7 @@ function rock_paper_scissors(){
 		console.log(" something broke!");
 	}
 }
+
+function letmewin(){
+	console.log("temor a winner");
+}
