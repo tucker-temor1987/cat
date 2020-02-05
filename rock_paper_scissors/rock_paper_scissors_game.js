@@ -36,3 +36,7 @@ function letmewin(){
 function needstowin(){
 	console.log("never will lose")
 }
+
+function neverwillfall(){
+	console.log("im my own enemy");
+}
